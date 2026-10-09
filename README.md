@@ -1,8 +1,8 @@
 ### Hi, I'm Dilara. 👋
 
-🔍 Data Scientist and Economist with a strong foundation in sustainability and innovation, actively seeking new opportunities in the field.
+🔍 Data Scientist and Economist with experience in sustainability, innovation, and AI development.
 
-🎓 I recently completed an intensive Data Science bootcamp by Miuul and İstanbul Kodluyor, where I developed my skills in machine learning, data analysis, and Python programming. My background includes an MA in Economics and International Relations, and 4 years of experience as a climate change and sustainability consultant across various sectors, including work with the IFC and EY.
+🎓 My background includes an MA in Economics and International Relations, and 4 years of experience as a climate change and sustainability consultant across various sectors, including work with the IFC and EY.
 
 💻 My GitHub projects showcase my passion for leveraging data science to drive positive change. I’m particularly focused on AI governance, financial modeling, and ESG data integration. I enjoy exploring the intersection of technology, policy, finance, and sustainability, and I’m always looking for new challenges.
 
